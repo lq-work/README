@@ -132,7 +132,7 @@ URL即图片的url地址，如果引用本仓库中的图片，直接使用**相
 ```
 https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```
-
+![img](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
 |#|语法|效果|
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
